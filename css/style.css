@@ -17,7 +17,7 @@ body {
     font-weight: 300;
 }
 
-body, input {
+body, input, button {
     font-family: 'Teko', sans-serif;
 }
 
