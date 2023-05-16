@@ -10,7 +10,7 @@ Nesta página, você poderá escolher os atributos do seu robô e atualizar os d
 
 ### Link para teste
 
-![Robotron 2000](https://melksedeque.github.io/robotron-2000/)
+[Robotron 2000](https://melksedeque.github.io/robotron-2000/)
 
 ## Aprendizado
 
