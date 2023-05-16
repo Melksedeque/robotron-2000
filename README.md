@@ -8,6 +8,10 @@ Inspirado nos antigos jogos de tiro em arena, o Robotron 2000 traz a possibilida
 
 Nesta página, você poderá escolher os atributos do seu robô e atualizar os dados de Força, Poder, Energia, Velocidade de acordo com a quantidade de partes escolhidas.
 
+### Link para teste
+
+![Robotron 2000](https://melksedeque.github.io/robotron-2000/)
+
 ## Aprendizado
 
 Utilizando apenas HTML, CSS e JavaScript e seguindo os ensinamentos do @PedroMarins no curso da #Alura, aprendi melhor a trabalhar a manipulação de DOM (Document Object Model) para utilizar os estados e cliques dos botões e alterar dinamicamente os dados dos atributos do Robotron.
