@@ -32,6 +32,7 @@ const pecas = {
         "velocidade": -2,
     },
 }
+const btnConstruir = document.getElementById("producao");
 
 controle.forEach((e) => {
     e.addEventListener("click", (e) => {
@@ -73,3 +74,20 @@ function atualizaEstatisticas(peca, controle, operacao) {
         }
     })
 }
+
+btnConstruir.addEventListener('click', (e) => {
+    e.preventDefault()
+    let emptyRobotron = true
+    estatisticas.forEach((e) => {
+        if(e.textContent === "00" || e.textContent === "0") {
+            emptyRobotron = false
+        }
+    })
+
+    if(!emptyRobotron) {
+        alert("Assim não rola, né, meu parceiro! Vai montar o robô sem peças???")
+    }
+    else {
+        alert("Robotron 2000 criado com sucesso!")
+    }
+})
